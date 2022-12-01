@@ -13,6 +13,8 @@
 		C0EFF2D62938BBD3001119B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0EFF2D42938BBD3001119B5 /* Main.storyboard */; };
 		C0EFF2D82938BBD4001119B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0EFF2D72938BBD4001119B5 /* Assets.xcassets */; };
 		C0EFF2DB2938BBD4001119B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0EFF2D92938BBD4001119B5 /* LaunchScreen.storyboard */; };
+		C0EFF2E52938C7E1001119B5 /* PostCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EFF2E42938C7E1001119B5 /* PostCellTableViewCell.swift */; };
+		C0EFF2E72938CA55001119B5 /* DataFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EFF2E62938CA55001119B5 /* DataFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		C0EFF2D72938BBD4001119B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0EFF2DA2938BBD4001119B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0EFF2DC2938BBD4001119B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0EFF2E42938C7E1001119B5 /* PostCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCellTableViewCell.swift; sourceTree = "<group>"; };
+		C0EFF2E62938CA55001119B5 /* DataFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				C0EFF2D72938BBD4001119B5 /* Assets.xcassets */,
 				C0EFF2D92938BBD4001119B5 /* LaunchScreen.storyboard */,
 				C0EFF2DC2938BBD4001119B5 /* Info.plist */,
+				C0EFF2E42938C7E1001119B5 /* PostCellTableViewCell.swift */,
+				C0EFF2E62938CA55001119B5 /* DataFile.swift */,
 			);
 			path = "home work(glovo)";
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				C0EFF2D32938BBD3001119B5 /* ViewController.swift in Sources */,
 				C0EFF2CF2938BBD3001119B5 /* AppDelegate.swift in Sources */,
 				C0EFF2D12938BBD3001119B5 /* SceneDelegate.swift in Sources */,
+				C0EFF2E52938C7E1001119B5 /* PostCellTableViewCell.swift in Sources */,
+				C0EFF2E72938CA55001119B5 /* DataFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
