@@ -25,11 +25,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        tableView.register(UITableViewCell.self, forCellReuseIdentifier: "chat_cell")
+       // tableView.register(UITableViewCell.self, forCellReuseIdentifier: "chat_cell")
         
         
     
-
+    }
 
 }
 
@@ -59,4 +59,4 @@ extension ViewController: UITableViewDataSource{
             return 132
         }
     }
-}
+
